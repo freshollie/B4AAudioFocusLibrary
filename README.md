@@ -1,4 +1,4 @@
-# B4AAudioFocusLibrary
+# B4A Audio Focus Library
 
 Audio Focus Library for B4A designed for apps that need to take control of android audio properly.
 
